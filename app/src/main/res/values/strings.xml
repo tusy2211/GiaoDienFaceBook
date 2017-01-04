@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GiaoDienFaceBook</string>
+    <string name="sign_up">Sign Up for Facebook</string>
+    <string name="log_in">Log in</string>
+    <string name="input_username">Input Username</string>
+    <string name="input_password">Input Password</string>
+    <color name="bkack">#000</color>
+    <color name="white">#fff</color>
+</resources>
